@@ -27,4 +27,11 @@
 .pays img{
   width: 100%;
   height: 200px;
+  cursor: pointer;
+}
+
+.details {
+  display: flex;
+  margin: 20px 100px;
+  gap: 30px;
 }
